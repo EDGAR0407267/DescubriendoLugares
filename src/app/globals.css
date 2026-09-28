@@ -1,0 +1,134 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens — "descubriendo lugares" visual system: Geist for interface
+ * and headings, Instrument Serif italic for editorial accents, warm neutral
+ * paper, near-black ink for primary actions and one deep teal accent used for
+ * the brand, selections and hover states. Rebranding = editing this block.
+ */
+@theme {
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-instrument-serif), ui-serif, Georgia, serif;
+
+  --color-canvas: #faf9f6;
+  --color-surface: #ffffff;
+  --color-sunken: #f1efea;
+  --color-hover: #f4f2ee;
+  --color-placeholder: #dcd6cb;
+  --color-line: #e2ded7;
+  --color-line-soft: #e7e4de;
+  --color-line-strong: #d5d1c9;
+  --color-ink: #171715;
+  --color-ink-soft: #3f3d39;
+  --color-muted: #5b5953;
+  --color-subtle: #8c8981;
+  --color-faint: #c9c5bd;
+  --color-accent: #1d5360;
+  --color-accent-strong: #133b45;
+  --color-accent-soft: #d6e4e6;
+  --color-focus: #1d5360;
+
+  --radius-card: 14px;
+  --radius-control: 10px;
+  --shadow-card: 0 1px 2px rgb(23 23 21 / 0.04), 0 10px 30px rgb(23 23 21 / 0.07);
+  --shadow-raised: 0 12px 36px rgb(23 23 21 / 0.12);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background: var(--color-accent-soft);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  summary {
+    list-style: none;
+    cursor: pointer;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      transition-duration: 0.01ms !important;
+      animation-duration: 0.01ms !important;
+    }
+  }
+}
+
+@utility container-page {
+  width: 100%;
+  max-width: 80rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+
+  @media (width >= 40rem) {
+    padding-inline: 1.75rem;
+  }
+
+  @media (width >= 64rem) {
+    padding-inline: 2.5rem;
+  }
+}
+
+/* Headings: Geist medium with tight tracking (the mockup's display style). */
+@utility heading-display {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: -0.045em;
+  line-height: 1.02;
+  text-wrap: balance;
+}
+
+@utility heading-section {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+/* Editorial accent: Instrument Serif italic, slightly larger than its line. */
+@utility accent-serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+@utility link-underline {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-color: var(--color-faint);
+
+  &:hover {
+    text-decoration-color: var(--color-ink);
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

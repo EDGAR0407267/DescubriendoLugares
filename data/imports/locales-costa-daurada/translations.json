@@ -1,0 +1,373 @@
+{
+  "Bar del puerto deportivo": {
+    "ca": "Bar del port esportiu",
+    "en": "Marina bar",
+    "fr": "Bar du port de plaisance",
+    "de": "Bar im Jachthafen",
+    "it": "Bar del porto turistico"
+  },
+  "Bar y cervecería": {
+    "ca": "Bar i cerveseria",
+    "en": "Bar and beer house",
+    "fr": "Bar et brasserie",
+    "de": "Bar und Bierlokal",
+    "it": "Bar e birreria"
+  },
+  "Brasas y cócteles": {
+    "ca": "Brases i còctels",
+    "en": "Chargrill and cocktails",
+    "fr": "Grillades au feu de bois et cocktails",
+    "de": "Holzkohlegrill und Cocktails",
+    "it": "Brace e cocktail"
+  },
+  "Brunch y café de especialidad": {
+    "ca": "Brunch i cafè d’especialitat",
+    "en": "Brunch and specialty coffee",
+    "fr": "Brunch et café de spécialité",
+    "de": "Brunch und Spezialitätenkaffee",
+    "it": "Brunch e caffè specialty"
+  },
+  "Cafetería": {
+    "ca": "Cafeteria",
+    "en": "Café",
+    "fr": "Café",
+    "de": "Café",
+    "it": "Caffetteria"
+  },
+  "Café de especialidad y panadería": {
+    "ca": "Cafè d’especialitat i fleca",
+    "en": "Specialty coffee and bakery",
+    "fr": "Café de spécialité et boulangerie",
+    "de": "Spezialitätenkaffee und Bäckerei",
+    "it": "Caffè specialty e panetteria"
+  },
+  "Café y bar": {
+    "ca": "Cafè i bar",
+    "en": "Café and bar",
+    "fr": "Café et bar",
+    "de": "Café und Bar",
+    "it": "Caffè e bar"
+  },
+  "Café y desayunos": {
+    "ca": "Cafè i esmorzars",
+    "en": "Coffee and breakfast",
+    "fr": "Café et petits-déjeuners",
+    "de": "Kaffee und Frühstück",
+    "it": "Caffè e colazioni"
+  },
+  "Café y dulces": {
+    "ca": "Cafè i dolços",
+    "en": "Coffee and sweets",
+    "fr": "Café et douceurs",
+    "de": "Kaffee und Süßes",
+    "it": "Caffè e dolci"
+  },
+  "Café y repostería": {
+    "ca": "Cafè i rebosteria",
+    "en": "Coffee and pastries",
+    "fr": "Café et pâtisseries",
+    "de": "Kaffee und Gebäck",
+    "it": "Caffè e pasticceria"
+  },
+  "Café, helados y comidas": {
+    "ca": "Cafè, gelats i menjars",
+    "en": "Coffee, ice cream and meals",
+    "fr": "Café, glaces et repas",
+    "de": "Kaffee, Eis und Speisen",
+    "it": "Caffè, gelati e pasti"
+  },
+  "Café-bar y espacio cultural": {
+    "ca": "Cafè-bar i espai cultural",
+    "en": "Café-bar and cultural space",
+    "fr": "Café-bar et espace culturel",
+    "de": "Café-Bar und Kulturraum",
+    "it": "Caffè-bar e spazio culturale"
+  },
+  "Café-restaurante y cócteles": {
+    "ca": "Cafè-restaurant i còctels",
+    "en": "Café-restaurant and cocktails",
+    "fr": "Café-restaurant et cocktails",
+    "de": "Café-Restaurant und Cocktails",
+    "it": "Caffè-ristorante e cocktail"
+  },
+  "Cazuelas y cocina tradicional": {
+    "ca": "Cassoles i cuina tradicional",
+    "en": "Clay-pot dishes and traditional cooking",
+    "fr": "Cassolettes et cuisine traditionnelle",
+    "de": "Schmorgerichte und traditionelle Küche",
+    "it": "Piatti in casseruola e cucina tradizionale"
+  },
+  "Cervezas y terraza": {
+    "ca": "Cerveses i terrassa",
+    "en": "Beers and terrace",
+    "fr": "Bières et terrasse",
+    "de": "Bier und Terrasse",
+    "it": "Birre e terrazza"
+  },
+  "Chiringuito": {
+    "ca": "Xiringuito",
+    "en": "Beach bar",
+    "fr": "Paillote",
+    "de": "Strandbar",
+    "it": "Chiosco in spiaggia"
+  },
+  "Chiringuito y cocina mediterránea": {
+    "ca": "Xiringuito i cuina mediterrània",
+    "en": "Beach bar and Mediterranean cooking",
+    "fr": "Paillote et cuisine méditerranéenne",
+    "de": "Strandbar und mediterrane Küche",
+    "it": "Chiosco in spiaggia e cucina mediterranea"
+  },
+  "Chiringuito, cócteles y arroces": {
+    "ca": "Xiringuito, còctels i arrossos",
+    "en": "Beach bar, cocktails and rice dishes",
+    "fr": "Paillote, cocktails et plats de riz",
+    "de": "Strandbar, Cocktails und Reisgerichte",
+    "it": "Chiosco in spiaggia, cocktail e piatti di riso"
+  },
+  "Cocina catalana creativa": {
+    "ca": "Cuina catalana creativa",
+    "en": "Creative Catalan cooking",
+    "fr": "Cuisine catalane créative",
+    "de": "Kreative katalanische Küche",
+    "it": "Cucina catalana creativa"
+  },
+  "Cocina creativa y marinera": {
+    "ca": "Cuina creativa i marinera",
+    "en": "Creative and seafood cooking",
+    "fr": "Cuisine créative et de la mer",
+    "de": "Kreative Küche und Fischküche",
+    "it": "Cucina creativa e di mare"
+  },
+  "Cocina de autor y de mercado": {
+    "ca": "Cuina d’autor i de mercat",
+    "en": "Signature and market cooking",
+    "fr": "Cuisine d’auteur et du marché",
+    "de": "Autorenküche und Marktküche",
+    "it": "Cucina d’autore e di mercato"
+  },
+  "Cocina de mercado y producto del mar": {
+    "ca": "Cuina de mercat i producte de mar",
+    "en": "Market cooking and seafood",
+    "fr": "Cuisine du marché et produits de la mer",
+    "de": "Marktküche und Meeresprodukte",
+    "it": "Cucina di mercato e prodotti del mare"
+  },
+  "Cocina internacional y catalana; brunch": {
+    "ca": "Cuina internacional i catalana; brunch",
+    "en": "International and Catalan cooking; brunch",
+    "fr": "Cuisine internationale et catalane ; brunch",
+    "de": "Internationale und katalanische Küche; Brunch",
+    "it": "Cucina internazionale e catalana; brunch"
+  },
+  "Cocina marinera": {
+    "ca": "Cuina marinera",
+    "en": "Seafood cooking",
+    "fr": "Cuisine de la mer",
+    "de": "Fischküche",
+    "it": "Cucina di mare"
+  },
+  "Cocina marinera y mediterránea": {
+    "ca": "Cuina marinera i mediterrània",
+    "en": "Seafood and Mediterranean cooking",
+    "fr": "Cuisine de la mer et méditerranéenne",
+    "de": "Fischküche und mediterrane Küche",
+    "it": "Cucina di mare e mediterranea"
+  },
+  "Cocina mediterránea": {
+    "ca": "Cuina mediterrània",
+    "en": "Mediterranean cooking",
+    "fr": "Cuisine méditerranéenne",
+    "de": "Mediterrane Küche",
+    "it": "Cucina mediterranea"
+  },
+  "Cocina mediterránea creativa": {
+    "ca": "Cuina mediterrània creativa",
+    "en": "Creative Mediterranean cooking",
+    "fr": "Cuisine méditerranéenne créative",
+    "de": "Kreative mediterrane Küche",
+    "it": "Cucina mediterranea creativa"
+  },
+  "Cocina mediterránea y marinera": {
+    "ca": "Cuina mediterrània i marinera",
+    "en": "Mediterranean and seafood cooking",
+    "fr": "Cuisine méditerranéenne et de la mer",
+    "de": "Mediterrane Küche und Fischküche",
+    "it": "Cucina mediterranea e di mare"
+  },
+  "Cocina mediterránea y pizzas": {
+    "ca": "Cuina mediterrània i pizzes",
+    "en": "Mediterranean cooking and pizzas",
+    "fr": "Cuisine méditerranéenne et pizzas",
+    "de": "Mediterrane Küche und Pizza",
+    "it": "Cucina mediterranea e pizze"
+  },
+  "Cocina mediterránea y pizzería": {
+    "ca": "Cuina mediterrània i pizzeria",
+    "en": "Mediterranean cooking and pizzeria",
+    "fr": "Cuisine méditerranéenne et pizzeria",
+    "de": "Mediterrane Küche und Pizzeria",
+    "it": "Cucina mediterranea e pizzeria"
+  },
+  "Cocina mediterránea y terraza": {
+    "ca": "Cuina mediterrània i terrassa",
+    "en": "Mediterranean cooking and terrace",
+    "fr": "Cuisine méditerranéenne et terrasse",
+    "de": "Mediterrane Küche und Terrasse",
+    "it": "Cucina mediterranea e terrazza"
+  },
+  "Coctelería": {
+    "ca": "Cocteleria",
+    "en": "Cocktail bar",
+    "fr": "Bar à cocktails",
+    "de": "Cocktailbar",
+    "it": "Cocktail bar"
+  },
+  "Coctelería; también restaurante": {
+    "ca": "Cocteleria; també restaurant",
+    "en": "Cocktail bar; also a restaurant",
+    "fr": "Bar à cocktails ; également restaurant",
+    "de": "Cocktailbar; auch Restaurant",
+    "it": "Cocktail bar; anche ristorante"
+  },
+  "Copas y música": {
+    "ca": "Copes i música",
+    "en": "Drinks and music",
+    "fr": "Verres et musique",
+    "de": "Drinks und Musik",
+    "it": "Drink e musica"
+  },
+  "Cócteles y lounge frente al mar": {
+    "ca": "Còctels i lounge davant del mar",
+    "en": "Cocktails and seafront lounge",
+    "fr": "Cocktails et lounge face à la mer",
+    "de": "Cocktails und Lounge am Meer",
+    "it": "Cocktail e lounge fronte mare"
+  },
+  "Cócteles, terraza y vistas al mar": {
+    "ca": "Còctels, terrassa i vistes al mar",
+    "en": "Cocktails, terrace and sea views",
+    "fr": "Cocktails, terrasse et vue sur la mer",
+    "de": "Cocktails, Terrasse und Meerblick",
+    "it": "Cocktail, terrazza e vista mare"
+  },
+  "Heladería y cafetería": {
+    "ca": "Gelateria i cafeteria",
+    "en": "Ice-cream parlour and café",
+    "fr": "Glacier et café",
+    "de": "Eisdiele und Café",
+    "it": "Gelateria e caffetteria"
+  },
+  "Mariscos y arroces": {
+    "ca": "Marisc i arrossos",
+    "en": "Shellfish and rice dishes",
+    "fr": "Fruits de mer et plats de riz",
+    "de": "Meeresfrüchte und Reisgerichte",
+    "it": "Frutti di mare e piatti di riso"
+  },
+  "Menú degustación y cocina creativa": {
+    "ca": "Menú degustació i cuina creativa",
+    "en": "Tasting menu and creative cooking",
+    "fr": "Menu dégustation et cuisine créative",
+    "de": "Degustationsmenü und kreative Küche",
+    "it": "Menù degustazione e cucina creativa"
+  },
+  "Panadería francesa y café": {
+    "ca": "Fleca francesa i cafè",
+    "en": "French bakery and coffee",
+    "fr": "Boulangerie française et café",
+    "de": "Französische Bäckerei und Kaffee",
+    "it": "Panetteria francese e caffè"
+  },
+  "Pastelería artesanal y café": {
+    "ca": "Pastisseria artesana i cafè",
+    "en": "Artisan pastry shop and coffee",
+    "fr": "Pâtisserie artisanale et café",
+    "de": "Handwerkliche Konditorei und Kaffee",
+    "it": "Pasticceria artigianale e caffè"
+  },
+  "Pub británico y música": {
+    "ca": "Pub britànic i música",
+    "en": "British pub and music",
+    "fr": "Pub britannique et musique",
+    "de": "Britischer Pub und Musik",
+    "it": "Pub britannico e musica"
+  },
+  "Restaurante del puerto deportivo": {
+    "ca": "Restaurant del port esportiu",
+    "en": "Marina restaurant",
+    "fr": "Restaurant du port de plaisance",
+    "de": "Restaurant im Jachthafen",
+    "it": "Ristorante del porto turistico"
+  },
+  "Restaurante gastronómico": {
+    "ca": "Restaurant gastronòmic",
+    "en": "Gastronomic restaurant",
+    "fr": "Restaurant gastronomique",
+    "de": "Gourmetrestaurant",
+    "it": "Ristorante gastronomico"
+  },
+  "Restaurante y cócteles": {
+    "ca": "Restaurant i còctels",
+    "en": "Restaurant and cocktails",
+    "fr": "Restaurant et cocktails",
+    "de": "Restaurant und Cocktails",
+    "it": "Ristorante e cocktail"
+  },
+  "Tapas clásicas y creativas": {
+    "ca": "Tapes clàssiques i creatives",
+    "en": "Classic and creative tapas",
+    "fr": "Tapas classiques et créatives",
+    "de": "Klassische und kreative Tapas",
+    "it": "Tapas classiche e creative"
+  },
+  "Tapas creativas y mojitos": {
+    "ca": "Tapes creatives i mojitos",
+    "en": "Creative tapas and mojitos",
+    "fr": "Tapas créatives et mojitos",
+    "de": "Kreative Tapas und Mojitos",
+    "it": "Tapas creative e mojito"
+  },
+  "Tapas mediterráneas y cócteles": {
+    "ca": "Tapes mediterrànies i còctels",
+    "en": "Mediterranean tapas and cocktails",
+    "fr": "Tapas méditerranéennes et cocktails",
+    "de": "Mediterrane Tapas und Cocktails",
+    "it": "Tapas mediterranee e cocktail"
+  },
+  "Tapas y cocina internacional": {
+    "ca": "Tapes i cuina internacional",
+    "en": "Tapas and international cooking",
+    "fr": "Tapas et cuisine internationale",
+    "de": "Tapas und internationale Küche",
+    "it": "Tapas e cucina internazionale"
+  },
+  "Tapas y cocina mediterránea": {
+    "ca": "Tapes i cuina mediterrània",
+    "en": "Tapas and Mediterranean cooking",
+    "fr": "Tapas et cuisine méditerranéenne",
+    "de": "Tapas und mediterrane Küche",
+    "it": "Tapas e cucina mediterranea"
+  },
+  "Tapas y cócteles": {
+    "ca": "Tapes i còctels",
+    "en": "Tapas and cocktails",
+    "fr": "Tapas et cocktails",
+    "de": "Tapas und Cocktails",
+    "it": "Tapas e cocktail"
+  },
+  "Tapas y desayunos a la brasa": {
+    "ca": "Tapes i esmorzars a la brasa",
+    "en": "Tapas and chargrilled breakfasts",
+    "fr": "Tapas et petits-déjeuners grillés",
+    "de": "Tapas und Frühstück vom Grill",
+    "it": "Tapas e colazioni alla brace"
+  },
+  "Vermut, aperitivos y café": {
+    "ca": "Vermut, aperitius i cafè",
+    "en": "Vermouth, aperitifs and coffee",
+    "fr": "Vermouth, apéritifs et café",
+    "de": "Wermut, Aperitifs und Kaffee",
+    "it": "Vermut, aperitivi e caffè"
+  }
+}
